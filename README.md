@@ -1,2 +1,2 @@
 # HIPPVI-Code
-Collection of python scripts associated with the paper – The Hawaii Infrared Parallax Program. VI. The Fundamental Properties of 1000+ Ultracool Dwarfs and Planetary-Mass Objects using Optical to Mid-infrared Spectral Energy Distributions
+Collection of Python scripts associated with the paper – The Hawaii Infrared Parallax Program. VI. The Fundamental Properties of 1000+ Ultracool Dwarfs and Planetary-Mass Objects using Optical to Mid-infrared Spectral Energy Distributions. The Python scripts have been written specifically for data usage from The UltracoolSheet for the requirements of the above project. For general-purpose use and related questions, contact me at asanghi@caltech.edu.
